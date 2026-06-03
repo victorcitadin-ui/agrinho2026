@@ -1,0 +1,28 @@
+:root {
+  --canvas-bg: #f8f3e7;
+  --canvas-soft: #fffaf0;
+  --card-overlay: rgba(255, 251, 244, 0.82);
+  --card-solid: #fffdf8;
+  --text-main: #2d241c;
+  --text-muted: #685a4d;
+  --border-smoke: rgba(120, 90, 40, 0.18);
+
+  --brand-primary: #335f45;
+  --brand-deep: #244533;
+  --brand-tint: #447257;
+  --brand-accent: #b27a2f;
+  --brand-accent-shade: #b67b28;
+  --brand-accent-glow: #c88e3d;
+
+  --tint-white: #fff;
+  --tint-cream: #fff8ea;
+  --paper-pure: #fffdf9;
+  --paper-smooth: #faf4e8;
+  --paper-cozy: #f8f1e4;
+  --sand-tone: #efe4d0;
+  --comic-bg: #f7ecd7;
+  --indicator-dot: #d9c7a5;
+  --bar-footer: #213628;
+  --bar-header: rgba(40, 63, 47, 0.88);
+  --bar-border: rgba(255, 255, 255, 0.08);
+  --bar-mobile: rgba(33,
